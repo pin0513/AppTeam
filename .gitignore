@@ -1,0 +1,28 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Temporary files
+*.swp
+*.swo
+*~
+
+# Claude Code cache
+.claude/cache/
+
+# Logs
+*.log
+
+# Development
+node_modules/
+.vscode/
+.idea/
+
+# Build outputs
+*.apk
+*.ipa
+*.aab
+build/
+dist/
